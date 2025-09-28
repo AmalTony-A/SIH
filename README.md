@@ -41,8 +41,7 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-                 Proposed Solution
-               Detailed Explanation
+ ----------------Proposed Solution---------------- ----------------Detailed Explanation--------------
 We propose a multilingual, AI-powered smart advisory platform (mobile app + chatbot + voice support) to guide small and marginal farmers in crop selection, pest management, fertilizer use, and market decisions.
 
 (*)Farmers receive personalized, real-time advice based on soil type, weather conditions, crop history, and market prices.
@@ -53,7 +52,7 @@ We propose a multilingual, AI-powered smart advisory platform (mobile app + chat
 
 (*)Offline support via SMS/IVR ensures accessibility in rural areas with poor internet connectivity.
 
-          How It Addresses the Problem
+------------How It Addresses the Problem------------
 
 (*)Bridges knowledge gap: Farmers get scientific, reliable, real-time advice instead of relying on guesswork or shopkeepers.
 
@@ -63,7 +62,7 @@ We propose a multilingual, AI-powered smart advisory platform (mobile app + chat
 
 (*)Sustainability: Promotes balanced chemical use, eco-friendly practices, and long-term soil health.
 
-             Innovation & Uniqueness
+--------------- Innovation & Uniqueness------------
 
 (*)Krishi Scientist in every pocket: AI-driven insights available anytime, anywhere.
 
@@ -73,7 +72,7 @@ We propose a multilingual, AI-powered smart advisory platform (mobile app + chat
 Feedback learning loop: App improves recommendations by learning from farmer outcomes.
 
 ## Technical Approach
-                  Technical Approach
+---------------- Technical Approach---------------
 Technologies to be Used
 (*)Frontend: Android (Java/Kotlin, Flutter for cross-platform)
 (*)Backend: Python (Django/Flask), Node.js for APIs
@@ -110,12 +109,12 @@ Step 5: Farmers give feedback → app refines suggestions.
 
 
 ## Feasibility and Viability
-                Feasibility & Viability
+-----------------Feasibility & Viability------------
 Feasibility Analysis
 High scalability: Works across states with language modules.
 Low cost to farmers: Free/ad-supported version ensures inclusivity.
 Existing resources: Uses IMD, Agmarknet, and KVK datasets.
-           Potential Challenges & Risks
+------------- Potential Challenges & Risks-----------
 Low digital literacy → farmers may struggle with apps.
 Poor internet in rural areas.
 Accuracy of AI models in pest detection (depends on dataset quality).
@@ -126,7 +125,7 @@ Continuous training of AI models using local crop/pest datasets.
 Partnerships with Krishi Vigyan Kendras (KVKs), NGOs, and Govt. for awareness and training.
 
 ## Impact and Benefits
-                 Impacts & Benefits
+------------------ Impacts & Benefits----------------
 Potential Impact on Target Audience
 Empowers 86% small & marginal farmers in India with scientific decision-making.
 Makes agriculture less risky, more profitable, and sustainable.
