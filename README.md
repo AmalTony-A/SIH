@@ -104,7 +104,7 @@ Step 5: Farmers give feedback → app refines suggestions.
   Farmer Action → Feedback → Continuous Learning
 
 ![alt text](<sih technical support.jpg>)
-![alt text](<sih technical support-1.jpg>)
+![alt text](<sih solution .jpg>)
 
 
 
