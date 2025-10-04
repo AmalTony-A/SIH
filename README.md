@@ -41,7 +41,7 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-```
+
  ----------------Proposed Solution---------------- ----------------Detailed Explanation--------------
 We propose a multilingual, AI-powered smart advisory platform (mobile app + chatbot + voice support) to guide small and marginal farmers in crop selection, pest management, fertilizer use, and market decisions.
 
@@ -71,10 +71,10 @@ We propose a multilingual, AI-powered smart advisory platform (mobile app + chat
 
 (*)Integrated ecosystem: Combines soil, weather, pest, and market intelligence in a single platform.
 Feedback learning loop: App improves recommendations by learning from farmer outcomes.
-```
+
 
 ## Technical Approach
-```
+
 ---------------- Technical Approach---------------
 Technologies to be Used
 (*)Frontend: Android (Java/Kotlin, Flutter for cross-platform)
@@ -105,7 +105,7 @@ Step 5: Farmers give feedback → app refines suggestions.
  (Multilingual text, voice, alerts)
         ↓
   Farmer Action → Feedback → Continuous Learning
-```
+
 ![alt text](<sih technical support.jpg>)
 ![alt text](<sih solution .jpg>)
 
@@ -113,7 +113,7 @@ Step 5: Farmers give feedback → app refines suggestions.
 
 
 ## Feasibility and Viability
-```
+
 -----------------Feasibility & Viability------------
 Feasibility Analysis
 High scalability: Works across states with language modules.
@@ -128,10 +128,10 @@ Voice-based + IVR support for non-smartphone users.
 Offline mode with SMS sync.
 Continuous training of AI models using local crop/pest datasets.
 Partnerships with Krishi Vigyan Kendras (KVKs), NGOs, and Govt. for awareness and training.
-```
+
 
 ## Impact and Benefits
-```
+
 ------------------ Impacts & Benefits----------------
 Potential Impact on Target Audience
 Empowers 86% small & marginal farmers in India with scientific decision-making.
@@ -140,7 +140,7 @@ Benefits
 Social: Farmers become self-reliant, reduce dependence on middlemen.
 Economic: Increase in yield (20–30%), reduced input costs, better market prices.
 Environmental: Prevents overuse of fertilizers/pesticides, improves soil health, promotes eco-friendly farming.
-```
+
 ## Research and References
 
 https://chat.openai.com/
